@@ -17,3 +17,6 @@ INSERT INTO item VALUES (2, 'def');
 INSERT INTO item VALUES (3, 'ghi');
 INSERT INTO item VALUES (4, 'jkl');
 ```
+http://localhost:8080/
+http://localhost:8080/items
+http://localhost:8080/evict
